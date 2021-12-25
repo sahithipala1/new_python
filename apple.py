@@ -1,3 +1,6 @@
+
+# LISTS
+
 my_list = ["jan", "feb", "march"]
 print(my_list[0])
 
